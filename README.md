@@ -1,4 +1,10 @@
-Senses => sensors
-Memory => database
-Neurons => matrices
-Consciousness => recursive function feedback loops
+__Senses => sensors__
+
+
+__Memory => database__
+
+
+__Neurons => matrices__
+
+
+__Consciousness => recursive function feedback loops__
